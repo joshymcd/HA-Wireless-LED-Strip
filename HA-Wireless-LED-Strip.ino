@@ -16,10 +16,10 @@ const char* WIFI_PASSWORD = CONF_WIFI_PASSWORD  ;//"5c7bd5e5fc";
 
 
 /************ MQTT Server ******************/
-#define mqtt_server "192.168.1.1" // Enter your MQTT server adderss or IP. I use my DuckDNS adddress (yourname.duckdns.org) in this field
+#define mqtt_server "192.168.1.1" 
 #define mqtt_port 1883
-#define mqtt_user "pi" //enter your MQTT username
-#define mqtt_password "letmein" //enter your password
+#define mqtt_user "pi" 
+#define mqtt_password "letmein" 
 
 
 /************ MQTT Topics ******************/
